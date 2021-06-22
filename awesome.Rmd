@@ -17,7 +17,7 @@ airline
 
 
 
-Data wrangle
+Data wrangling
 Here cleaning up data
 
 &data Viz
